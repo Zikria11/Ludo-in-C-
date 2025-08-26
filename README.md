@@ -1,6 +1,6 @@
-# 🎲 Ludo Game (Unity C#)
+# 🎲 Ludo Game 
 
-A simple **Ludo board game** built in **Unity** with core mechanics like dice rolling, piece movement, safe zones, and capturing opponents.  
+A simple **Ludo board game** built in C++ using raylib with core mechanics like dice rolling, piece movement, safe zones, and capturing opponents.  
 
 ---
 
